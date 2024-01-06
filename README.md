@@ -6,3 +6,7 @@ The company accepts your items faster and without requiring you to ring the bell
 - The company is more patient.
 
 The company is happy to accept your junk.  :)
+
+---
+
+Only the host needs the mod.
