@@ -1,7 +1,7 @@
 {
   "name": "NoBellRequired",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/dlamkins/LCObligedCompany",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/dlamkins/LCNoBellRequired",
   "description": "The company accepts your items faster and without requiring you to ring the bell.",
   "dependencies": []
 }
